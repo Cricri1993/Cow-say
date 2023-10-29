@@ -1,6 +1,6 @@
 const user = {
     name: "Cricri",
-    city: "Lyon"
+    campus: "Lyon Campus"
 };
 
 module.exports = user;
